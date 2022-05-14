@@ -80,7 +80,7 @@
     "@fortawesome/react-fontawesome": "^0.1.14",
     "@josojo/honeyswap-sdk": "^1.0.0",
     "@popperjs/core": "^2.4.0",
-    "@reach/dialog": "^0.10.3",
+    "@reach/dialog": "^0.17.0",
     "@reach/portal": "^0.10.3",
     "@reduxjs/toolkit": "^1.6.2",
     "@types/react-router-hash-link": "^1.2.1",
