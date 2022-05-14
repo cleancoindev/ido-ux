@@ -81,7 +81,7 @@
     "@josojo/honeyswap-sdk": "^1.0.0",
     "@popperjs/core": "^2.4.0",
     "@reach/dialog": "^0.10.3",
-    "@reach/portal": "^0.10.3",
+    "@reach/portal": "^0.17.0",
     "@reduxjs/toolkit": "^1.6.2",
     "@types/react-router-hash-link": "^1.2.1",
     "@uniswap/sdk": "^2.0.5",
