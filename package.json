@@ -79,7 +79,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@fortawesome/react-fontawesome": "^0.1.14",
     "@josojo/honeyswap-sdk": "^1.0.0",
-    "@popperjs/core": "^2.4.0",
+    "@popperjs/core": "^2.11.5",
     "@reach/dialog": "^0.10.3",
     "@reach/portal": "^0.10.3",
     "@reduxjs/toolkit": "^1.6.2",
